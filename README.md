@@ -1,6 +1,8 @@
 # 📱 Automatic Redirect Page — Play Store / App Store
 
-![Page Preview](./screen.png)
+<p align="center">
+  <img src="./screen.png" alt="Page Preview" />
+</p>
 
 A lightweight, fully static HTML page that detects the visitor’s device operating system and automatically redirects them to the appropriate app store.  
 Perfect for marketing campaigns, QR codes, and download links where simplicity and speed matter.
